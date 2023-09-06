@@ -1,5 +1,5 @@
 # Карточная игра "Remember"
-
+https://annmakhortova.github.io/test-game/
 
 ## Цель игры
 Выбрать все пары карт
